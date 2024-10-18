@@ -487,7 +487,7 @@ def proccess(
     return logs[-1]
 
 
-def main(cat_path, api_key1, folder_id1, tasks_name='tasks.xlsx', tests_name='tests.xlsx', sols_name='for_test.xlsx'):
+def main(cat_path, api_key1, folder_id1, tasks_name='tasks.xlsx', tests_name='tests.xlsx', sols_name='solutions.xlsx'):
     add_messages_to_index(index_train, train_dt, embedding_model)
     global yandex_gpt
     yandex_gpt = YandexGPT(
