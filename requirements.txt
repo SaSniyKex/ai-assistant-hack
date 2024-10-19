@@ -15,7 +15,6 @@ faiss-cpu==1.9.0
 filelock==3.16.1
 fonttools==4.54.1
 fsspec==2024.9.0
-googletrans==4.0.0rc1
 h11==0.9.0
 h2==3.2.0
 hpack==3.0.0
@@ -54,7 +53,6 @@ pyparsing==3.2.0
 python-dateutil==2.9.0.post0
 python-dotenv==1.0.1
 pytz==2024.2
-pywin32==308
 PyYAML==6.0.2
 pyzmq==26.2.0
 regex==2024.9.11
